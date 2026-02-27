@@ -215,7 +215,7 @@ const Home = React.forwardRef((props, ref) => {
           />
           <motion.img
             src={avatar}
-            alt="Gaurav Gupta avatar"
+            alt="Muhammad Muneeb avatar"
             className="absolute top-1/2 -translate-y-1/2 object-contain select-none pointer-events-none"
             style={{ right: "-30px", width: "min(45vw, 780px)", maxHeight: "90vh" }}
             initial={{ opacity: 0, y: 40, scale: 0.95 }}
